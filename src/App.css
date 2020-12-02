@@ -7,28 +7,7 @@
   width: 1200px;
   margin: 0 auto;
 }
-
-.header{
-  grid-area: header;
-  background-color:red;
-}
-.header img{
-  width: 10px;
-}
-
-.nav{
-  background-color:blue;
-  grid-area: nav;
-}
-
-.content{
+.app-wrapper-content{
   grid-area: content;
-  background-color:rgb(0, 255, 76);
-}
-.content .img-header{
-  height: 200px;
-  width: 100%;
-}
-.content .img-avatar{
-  width: 100px;
+  background-color: rgb(68, 129, 83);
 }

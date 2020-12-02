@@ -1,0 +1,12 @@
+.item{
+    color:yellow;
+    padding: 10px;
+}
+.item img{
+    width: 50px;
+    border-radius:50%;
+}
+.item span{
+    padding-left: 10px;
+    color: #810000;
+}
