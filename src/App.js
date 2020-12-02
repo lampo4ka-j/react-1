@@ -9,7 +9,7 @@ import Profile from './components/Profile';
     <div className='app-wrapper'>
         <Header />
         <NavBar />
-        <Profile />
+        
     </div>
   );
 }
