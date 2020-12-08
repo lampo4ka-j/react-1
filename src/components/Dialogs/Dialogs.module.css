@@ -5,3 +5,19 @@
 .dialogsItems{
     padding: 10px;
 }
+.text textarea{
+    margin-left: 175px;
+    margin-top: 30px;
+    background-color: #306640;
+    border: 1px solid #264f33;
+    border-radius: 10px;
+    box-shadow: inset 0 0 10px #264f33;
+    width: 430px;
+    color: #ababab;
+}
+.text button{
+    background-color: #306640;
+    color: #183020;
+    display: inline-block;
+    margin-bottom: 10px;
+}
